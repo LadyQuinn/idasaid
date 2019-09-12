@@ -1,3 +1,1 @@
 # idasaid
-
-#rikard test
